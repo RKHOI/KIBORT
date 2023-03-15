@@ -1,0 +1,16 @@
+.box {
+	background-color: #fff;
+	border:1px solid #ccc;
+	padding:15px;
+	box-sizing: border-box;
+	margin:10px 0 25px 0;
+}
+
+section {
+    display: block;
+}
+
+col-4{
+	width: 100%;
+  }
+  
